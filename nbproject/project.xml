@@ -3,7 +3,11 @@
     <type>org.netbeans.modules.java.j2seproject</type>
     <configuration>
         <data xmlns="http://www.netbeans.org/ns/j2se-project/3">
+<<<<<<< HEAD
+            <name>Cafetera</name>
+=======
             <name>Cajero</name>
+>>>>>>> 4045ecc5710a7dc28d6809599969962a2e5b3f71
             <source-roots>
                 <root id="src.dir"/>
             </source-roots>
